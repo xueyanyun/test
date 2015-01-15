@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/.m2/repository/org/json/json/20140107/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/.m2/repository/redis/clients/jedis/2.4.2/jedis-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/.m2/repository/com/eb/bi/rs/frame/common/frame-common/1.0-SNAPSHOT/frame-common-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/jar/dom4j-1.6.1/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
